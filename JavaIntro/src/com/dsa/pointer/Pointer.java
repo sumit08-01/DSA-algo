@@ -16,7 +16,7 @@ public class Pointer {
 //		System.out.println("num1 : " + num1);
 //		System.out.println("num2 : " + num2);
 		
-		//Case : 2 --> Map
+//Case : 2 --> Map
 		
 		Map<String, Integer> map1 = new HashMap<>();
 		Map<String, Integer> map2 = new HashMap<>();
